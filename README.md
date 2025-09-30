@@ -32,6 +32,9 @@ The dataset contains customer information with the following columns:
 - Python 3.7+
 - Jupyter Notebook
 
+### 🔍 Project Keywords
+e-commerce customer analytics, customer segmentation machine learning, RFM analysis python, customer lifetime value prediction, ecommerce data science, python machine learning project, customer behavior analysis, clustering algorithms, predictive modeling, business intelligence
+
 ### Required Libraries
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn scipy jupyter
